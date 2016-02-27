@@ -1,3 +1,9 @@
+/*
+@author:	Diogo A. B. Fernandes
+@contact:	diogoabfernandes@gmail.com
+@license:	see LICENSE
+*/
+
 #include <iostream>
 #include <cstdlib>
 
