@@ -1,6 +1,6 @@
 #include "ACO.h"
 
-#include<cstdio>
+#include <cstdio>
 #include <iostream>
 #include <cstdlib>
 
