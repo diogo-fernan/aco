@@ -11,3 +11,7 @@
 * `g++ -Wall *.cpp -o aco; ./aco`.
 
 The `main` method is included in the `main.cpp` file which contains a few parameters of the ACO algorithm that can be changed as one sees fit. That file also defines programmatically the connections of the cities that ultimately make up the city graph. The ACO algorithm methods are implemented in the `ACO` class located in the `ACO.h` and `ACO.cpp` files.
+
+# Author
+
+[@dfernan__](https://twitter.com/dfernan__)
